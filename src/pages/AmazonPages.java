@@ -6,7 +6,7 @@ public class AmazonPages {
     //html gor serach
 
 // html for delas pages
-
+//html some pages
 
 
 }
